@@ -1,0 +1,14 @@
+{
+  "name": "ts-tutorial",
+  "version": "1.0.0",
+  "description": "TS tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "To Thi Minh Hang",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.9.0-dev.20180515"
+  }
+}
